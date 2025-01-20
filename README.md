@@ -1,1 +1,1 @@
-# plateguesser
+For giving a guess on how many plates would be needed for a specific day. Does not account for holidays or other events.
